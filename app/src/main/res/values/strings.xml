@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SocialLogin</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="facebook_app_id">438005823323908</string>
+    <string name="login_with_facebook_success">Login with Facebook Success</string>
+    <string name="error">Error:</string>
+    <string name="user_signout">User SignOut</string>
+    <string name="login_with_social">Login with Social</string>
+    <string name="user_name">Name</string>
+    <string name="user_email">Email</string>
+    <string name="signout">SignOut</string>
+</resources>
